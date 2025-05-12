@@ -1,0 +1,9 @@
+:START_ID(Value),:END_ID(Value),type,explanation,:TYPE
+v1,v2,Essential to,Seeing drones in real life forms opinions,RELATION
+v3,v4,Depends on,Innovation accepted if useful,RELATION
+v4,v5,Leads to,Usefulness builds trust,RELATION
+v6,v7,In tension with,Experts overrate tech; public more critical,RELATION
+v8,v9,Cause,Regulations restrict capabilities,RELATION
+v10,v5,Conditions,Who operates affects trust,RELATION
+v11,v5,Undermines,Opaque usage lowers trust,RELATION
+v12,v5,Limits,Privacy worries reduce acceptance,RELATION

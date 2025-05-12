@@ -1,0 +1,13 @@
+id:ID(Value),name,category
+v1,Real-World Experience,Descriptive
+v2,Public Perception,Descriptive
+v3,Innovation,Normative
+v4,Usefulness,Descriptive
+v5,Trust / Acceptance,Normative
+v6,Expert Bias,Descriptive
+v7,Public Objectivity,Descriptive
+v8,Regulatory Constraints,Contextual
+v9,Expectation Mismatch,Descriptive
+v10,Operator Identity,Contextual
+v11,Lack of Transparency,Descriptive
+v12,Privacy Concern,Normative
